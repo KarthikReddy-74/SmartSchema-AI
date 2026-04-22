@@ -1,0 +1,12 @@
+[
+    {
+        "id": "int",
+        "product": "str",
+        "price": "int",
+        "category": "str",
+        "brand": "float",
+        "os": "float",
+        "warranty": "float",
+        "discount": "float"
+    }
+]
